@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <release name="CrossUO" version="1.0.0">
+        <file name="crossuo" hash="0ec3b1250bb094a4" data="a4/crossuo_0ec3b1250bb094a4" datahash="26a28fcaae8af879"/>
+        <file name="crossuo.so" hash="2d74e6497af1a4e0" data="e0/crossuo.so_2d74e6497af1a4e0" datahash="064ab3d9d2ba60fb"/>
+    </release>
+    <release name="X:UO Launcher" version="1.0.0">
+        <file name="XUOLauncher" hash="eecb7dd33d37a5a3" data="a3/xuolauncher_eecb7dd33d37a5a3" datahash="09a189eed1b070e5"/>
+    </release>
+    <release name="all" version="incremental">
+        <file name="crossuo" hash="0ec3b1250bb094a4" data="a4/crossuo_0ec3b1250bb094a4" datahash="26a28fcaae8af879"/>
+        <file name="crossuo.so" hash="2d74e6497af1a4e0" data="e0/crossuo.so_2d74e6497af1a4e0" datahash="064ab3d9d2ba60fb"/>
+        <file name="XUOLauncher" hash="eecb7dd33d37a5a3" data="a3/xuolauncher_eecb7dd33d37a5a3" datahash="09a189eed1b070e5"/>
+    </release>
 </manifest>
