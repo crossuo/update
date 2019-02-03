@@ -1,5 +1,5 @@
 bearer/qgenericbearer.dll,725e79d115c46629
-crossuo.exe,2963840863c86862
+crossuo.exe,f6969f5214a67b45
 d3dcompiler_47.dll,685a64c1898bd70f
 glew32.dll,106ca505a787b9dd
 iconengines/qsvgicon.dll,7e31f68f8c49cc57
@@ -46,4 +46,4 @@ translations/qt_ru.qm,bca277fee024e08f
 translations/qt_sk.qm,50f34f918a488374
 translations/qt_uk.qm,5660003721df8363
 vcruntime140.dll,f9f9b4b7938b7175
-xuolauncher.exe,e53ec72f772d3a8a
+xuolauncher.exe,c004051391559655

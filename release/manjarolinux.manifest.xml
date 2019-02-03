@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <release name="CrossUO" version="1.0.0">
+    <release name="CrossUO" version="1.0.0" latest="false">
         <file name="crossuo.so" hash="4b2647dc39d6bb69" data="69/crossuo.so_4b2647dc39d6bb69" datahash="6d53eca6100d7ccb"/>
         <file name="crossuo" hash="85e398d5bb79e72c" data="2c/crossuo_85e398d5bb79e72c" datahash="9be0ebe4257a037e"/>
     </release>
-    <release name="X:UO Launcher" version="1.0.0">
+    <release name="CrossUO" version="1.0.1" latest="true">
+        <file name="crossuo.so" hash="be01e326104b903e" data="3e/crossuo.so_be01e326104b903e" datahash="02a402e3d524472d"/>
+        <file name="crossuo" hash="b8a14ba6e6ae2bdf" data="df/crossuo_b8a14ba6e6ae2bdf" datahash="e7c95030b0383f4d"/>
+    </release>
+    <release name="X:UO Assist" version="1.0.1" latest="true">
+        <file name="xuoassist" hash="d8b4288529429a56" data="56/xuoassist_d8b4288529429a56" datahash="b964d3b6f1e44219"/>
+    </release>
+    <release name="X:UO Launcher" version="1.0.0" latest="false">
         <file name="xuolauncher" hash="7b6d784f0d72af42" data="42/xuolauncher_7b6d784f0d72af42" datahash="1af5b6b25ad6b1b3"/>
     </release>
-    <release name="all" version="incremental">
-        <file name="crossuo.so" hash="4b2647dc39d6bb69" data="69/crossuo.so_4b2647dc39d6bb69" datahash="6d53eca6100d7ccb"/>
-        <file name="crossuo" hash="85e398d5bb79e72c" data="2c/crossuo_85e398d5bb79e72c" datahash="9be0ebe4257a037e"/>
-        <file name="xuolauncher" hash="7b6d784f0d72af42" data="42/xuolauncher_7b6d784f0d72af42" datahash="1af5b6b25ad6b1b3"/>
+    <release name="X:UO Launcher" version="1.0.1" latest="true">
+        <file name="xuolauncher" hash="92a2214262d6ffb2" data="b2/xuolauncher_92a2214262d6ffb2" datahash="de6278b31978e6a6"/>
+    </release>
+    <release name="all" version="incremental" latest="false">
+        <file name="crossuo.so" hash="be01e326104b903e" data="3e/crossuo.so_be01e326104b903e" datahash="02a402e3d524472d"/>
+        <file name="crossuo" hash="b8a14ba6e6ae2bdf" data="df/crossuo_b8a14ba6e6ae2bdf" datahash="e7c95030b0383f4d"/>
+        <file name="xuoassist" hash="d8b4288529429a56" data="56/xuoassist_d8b4288529429a56" datahash="b964d3b6f1e44219"/>
+        <file name="xuolauncher" hash="92a2214262d6ffb2" data="b2/xuolauncher_92a2214262d6ffb2" datahash="de6278b31978e6a6"/>
     </release>
 </manifest>
