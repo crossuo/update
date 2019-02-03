@@ -122,15 +122,12 @@
         <file name="styles/qwindowsvistastyle.dll" hash="2094c11b7df3637d" data="7d/qwindowsvistastyle.dll_2094c11b7df3637d" datahash="c085a2231e2c5f11"/>
         <file name="libEGL.dll" hash="09a93ca76436b9d4" data="d4/libegl.dll_09a93ca76436b9d4" datahash="147a20656e1025f5"/>
         <file name="Qt5Widgets.dll" hash="386d5ccc38398b28" data="28/qt5widgets.dll_386d5ccc38398b28" datahash="22cc70a7a5813396"/>
-        <file name="msvcp140.dll" hash="f84de888dc9279b8" data="b8/msvcp140.dll_f84de888dc9279b8" datahash="c24f3aea168df6bf"/>
-        <file name="vcruntime140.dll" hash="f9f9b4b7938b7175" data="75/vcruntime140.dll_f9f9b4b7938b7175" datahash="a60aa7ac1c2cd21e"/>
         <file name="Qt5Network.dll" hash="218a8a9253088773" data="73/qt5network.dll_218a8a9253088773" datahash="2fa2c7fba2b719d2"/>
         <file name="Qt5Gui.dll" hash="abe39f793672b96f" data="6f/qt5gui.dll_abe39f793672b96f" datahash="f024e849474d128c"/>
         <file name="Qt5Svg.dll" hash="61cffb040b9ffd0e" data="0e/qt5svg.dll_61cffb040b9ffd0e" datahash="49d4347d4cb23ecc"/>
         <file name="D3Dcompiler_47.dll" hash="685a64c1898bd70f" data="0f/d3dcompiler_47.dll_685a64c1898bd70f" datahash="d44ccef72bab1e4a"/>
         <file name="iconengines/qsvgicon.dll" hash="7e31f68f8c49cc57" data="57/qsvgicon.dll_7e31f68f8c49cc57" datahash="87a2ff91bb42f1be"/>
         <file name="libGLESV2.dll" hash="5717d4f8f92f14b0" data="b0/libglesv2.dll_5717d4f8f92f14b0" datahash="49b11992040692ea"/>
-        <file name="xuolauncher.exe" hash="c004051391559655" data="55/xuolauncher.exe_c004051391559655" datahash="139d88fa2f12f803"/>
         <file name="Qt5Core.dll" hash="f0d4b5f0302f7cc1" data="c1/qt5core.dll_f0d4b5f0302f7cc1" datahash="3ee81c322c90ffcc"/>
         <file name="translations/qt_uk.qm" hash="5660003721df8363" data="63/qt_uk.qm_5660003721df8363" datahash="9cacac5bd43915dc"/>
         <file name="translations/qt_da.qm" hash="12a6cf1c6b0dada3" data="a3/qt_da.qm_12a6cf1c6b0dada3" datahash="cf29e8df386fc875"/>
