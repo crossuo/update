@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <release name="CrossUO" version="1.0.3" latest="true">
+    <release name="CrossUO" version="1.0.3" latest="false">
         <file name="crossuo.so" hash="766347aedf0a10d0" data="d0/crossuo.so_766347aedf0a10d0" datahash="e7a8a49940da2e1f"/>
         <file name="crossuo" hash="e01c56f538a96208" data="08/crossuo_e01c56f538a96208" datahash="22c5cf98ff5fc31f"/>
         <file name="xuolauncher" hash="bce155ad087d4433" data="33/xuolauncher_bce155ad087d4433" datahash="215248d886023599"/>
     </release>
-    <release name="all" version="incremental" latest="false">
-        <file name="crossuo.so" hash="766347aedf0a10d0" data="d0/crossuo.so_766347aedf0a10d0" datahash="e7a8a49940da2e1f"/>
+    <release name="CrossUO" version="1.0.3c" latest="true">
+        <file name="crossuo.so" hash="cd17db00d3471f2d" data="2d/crossuo.so_cd17db00d3471f2d" datahash="b98fa4d21b2be810"/>
         <file name="crossuo" hash="e01c56f538a96208" data="08/crossuo_e01c56f538a96208" datahash="22c5cf98ff5fc31f"/>
-        <file name="xuolauncher" hash="bce155ad087d4433" data="33/xuolauncher_bce155ad087d4433" datahash="215248d886023599"/>
+        <file name="xuolauncher" hash="f904942a6003dd05" data="05/xuolauncher_f904942a6003dd05" datahash="153fa72d1719dd16"/>
+        <file name="xuoassist" hash="5f61ac8693986fc5" data="c5/xuoassist_5f61ac8693986fc5" datahash="edaa7e9aa47ce394"/>
+    </release>
+    <release name="all" version="incremental" latest="false">
+        <file name="crossuo.so" hash="cd17db00d3471f2d" data="2d/crossuo.so_cd17db00d3471f2d" datahash="b98fa4d21b2be810"/>
+        <file name="crossuo" hash="e01c56f538a96208" data="08/crossuo_e01c56f538a96208" datahash="22c5cf98ff5fc31f"/>
+        <file name="xuolauncher" hash="f904942a6003dd05" data="05/xuolauncher_f904942a6003dd05" datahash="153fa72d1719dd16"/>
+        <file name="xuoassist" hash="5f61ac8693986fc5" data="c5/xuoassist_5f61ac8693986fc5" datahash="edaa7e9aa47ce394"/>
     </release>
 </manifest>

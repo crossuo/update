@@ -8,10 +8,15 @@
         <file name="crossuo" hash="eca6f0f9bb8049d2" data="d2/crossuo_eca6f0f9bb8049d2" datahash="81d410c90b762409"/>
         <file name="crossuo.so" hash="f2ae878657ae5c5b" data="5b/crossuo.so_f2ae878657ae5c5b" datahash="0ee7e4dc58c22bc8"/>
     </release>
-    <release name="CrossUO" version="1.0.3" latest="true">
+    <release name="CrossUO" version="1.0.3" latest="false">
         <file name="crossuo.so" hash="ab9f873bebae9af3" data="f3/crossuo.so_ab9f873bebae9af3" datahash="464c10a83ef16078"/>
         <file name="crossuo" hash="7a81ccf67ca604fe" data="fe/crossuo_7a81ccf67ca604fe" datahash="f8b4998528afa6bf"/>
         <file name="xuolauncher" hash="6071e5e4f0ea7664" data="64/xuolauncher_6071e5e4f0ea7664" datahash="1253d6ee1ae0c00a"/>
+    </release>
+    <release name="CrossUO" version="1.0.3c" latest="true">
+        <file name="crossuo.so" hash="89a55924c7cd9d77" data="77/crossuo.so_89a55924c7cd9d77" datahash="2aa1423ad34cb47f"/>
+        <file name="crossuo" hash="7a81ccf67ca604fe" data="fe/crossuo_7a81ccf67ca604fe" datahash="f8b4998528afa6bf"/>
+        <file name="xuolauncher" hash="11a715f3b6ac3d4b" data="4b/xuolauncher_11a715f3b6ac3d4b" datahash="99eef6bf6de52b5e"/>
     </release>
     <release name="X:UO Launcher" version="1.0.0" latest="false">
         <file name="XUOLauncher" hash="eb3455f380056b65" data="65/xuolauncher_eb3455f380056b65" datahash="2b01651c95399b33"/>
@@ -23,9 +28,9 @@
         <file name="xuolauncher" hash="6071e5e4f0ea7664" data="64/xuolauncher_6071e5e4f0ea7664" datahash="1253d6ee1ae0c00a"/>
     </release>
     <release name="all" version="incremental" latest="false">
-        <file name="crossuo.so" hash="ab9f873bebae9af3" data="f3/crossuo.so_ab9f873bebae9af3" datahash="464c10a83ef16078"/>
+        <file name="crossuo.so" hash="89a55924c7cd9d77" data="77/crossuo.so_89a55924c7cd9d77" datahash="2aa1423ad34cb47f"/>
         <file name="crossuo" hash="7a81ccf67ca604fe" data="fe/crossuo_7a81ccf67ca604fe" datahash="f8b4998528afa6bf"/>
-        <file name="xuolauncher" hash="6071e5e4f0ea7664" data="64/xuolauncher_6071e5e4f0ea7664" datahash="1253d6ee1ae0c00a"/>
+        <file name="xuolauncher" hash="11a715f3b6ac3d4b" data="4b/xuolauncher_11a715f3b6ac3d4b" datahash="99eef6bf6de52b5e"/>
         <file name="xuolauncher" hash="6071e5e4f0ea7664" data="64/xuolauncher_6071e5e4f0ea7664" datahash="1253d6ee1ae0c00a"/>
     </release>
 </manifest>
