@@ -1,7 +1,7 @@
 audio/qtaudio_wasapi.dll,2a2d6e732ebe9166
 audio/qtaudio_windows.dll,529ab4c7a9b6b9a6
 bearer/qgenericbearer.dll,725e79d115c46629
-crossuo.exe,9ccff0988e7dfc81
+crossuo.exe,c36f67cf0cb37183
 d3dcompiler_47.dll,685a64c1898bd70f
 glew32.dll,106ca505a787b9dd
 iconengines/qsvgicon.dll,7e31f68f8c49cc57
@@ -55,4 +55,4 @@ translations/qt_sk.qm,fd8d854778a6c45f
 translations/qt_uk.qm,6bc8cdc509757556
 vcruntime140.dll,f9f9b4b7938b7175
 xuoassist.dll,2fb3974e5ba002c6
-xuolauncher.exe,2dd51dbec2077111
+xuolauncher.exe,c47534144076d2d6

@@ -21,7 +21,7 @@
     </release>
     <release name="CrossUO" version="1.0.3c" latest="true">
         <file name="bearer/qgenericbearer.dll" hash="725e79d115c46629" data="29/qgenericbearer.dll_725e79d115c46629" datahash="e2aac18d3afbf1dc"/>
-        <file name="crossuo.exe" hash="9ccff0988e7dfc81" data="81/crossuo.exe_9ccff0988e7dfc81" datahash="efc0edb2e0ef9ebc"/>
+        <file name="crossuo.exe" hash="c36f67cf0cb37183" data="83/crossuo.exe_c36f67cf0cb37183" datahash="ab5fcb0c2c89035c"/>
         <file name="styles/qwindowsvistastyle.dll" hash="2094c11b7df3637d" data="7d/qwindowsvistastyle.dll_2094c11b7df3637d" datahash="c085a2231e2c5f11"/>
         <file name="libEGL.dll" hash="09a93ca76436b9d4" data="d4/libegl.dll_09a93ca76436b9d4" datahash="147a20656e1025f5"/>
         <file name="Qt5Widgets.dll" hash="386d5ccc38398b28" data="28/qt5widgets.dll_386d5ccc38398b28" datahash="22cc70a7a5813396"/>
@@ -32,7 +32,7 @@
         <file name="D3Dcompiler_47.dll" hash="685a64c1898bd70f" data="0f/d3dcompiler_47.dll_685a64c1898bd70f" datahash="d44ccef72bab1e4a"/>
         <file name="iconengines/qsvgicon.dll" hash="7e31f68f8c49cc57" data="57/qsvgicon.dll_7e31f68f8c49cc57" datahash="87a2ff91bb42f1be"/>
         <file name="libGLESV2.dll" hash="5717d4f8f92f14b0" data="b0/libglesv2.dll_5717d4f8f92f14b0" datahash="49b11992040692ea"/>
-        <file name="xuolauncher.exe" hash="2dd51dbec2077111" data="11/xuolauncher.exe_2dd51dbec2077111" datahash="486bb16207d1bb94"/>
+        <file name="xuolauncher.exe" hash="c47534144076d2d6" data="d6/xuolauncher.exe_c47534144076d2d6" datahash="a573eb5f45c42687"/>
         <file name="playlistformats/qtmultimedia_m3u.dll" hash="35adb562a97f9d06" data="06/qtmultimedia_m3u.dll_35adb562a97f9d06" datahash="34461abe91e91ce8"/>
         <file name="Qt5Core.dll" hash="f0d4b5f0302f7cc1" data="c1/qt5core.dll_f0d4b5f0302f7cc1" datahash="3ee81c322c90ffcc"/>
         <file name="translations/qt_uk.qm" hash="6bc8cdc509757556" data="56/qt_uk.qm_6bc8cdc509757556" datahash="a07ac8da133d090e"/>
@@ -176,7 +176,7 @@
     </release>
     <release name="all" version="incremental" latest="false">
         <file name="bearer/qgenericbearer.dll" hash="725e79d115c46629" data="29/qgenericbearer.dll_725e79d115c46629" datahash="e2aac18d3afbf1dc"/>
-        <file name="crossuo.exe" hash="9ccff0988e7dfc81" data="81/crossuo.exe_9ccff0988e7dfc81" datahash="efc0edb2e0ef9ebc"/>
+        <file name="crossuo.exe" hash="c36f67cf0cb37183" data="83/crossuo.exe_c36f67cf0cb37183" datahash="ab5fcb0c2c89035c"/>
         <file name="styles/qwindowsvistastyle.dll" hash="2094c11b7df3637d" data="7d/qwindowsvistastyle.dll_2094c11b7df3637d" datahash="c085a2231e2c5f11"/>
         <file name="libEGL.dll" hash="09a93ca76436b9d4" data="d4/libegl.dll_09a93ca76436b9d4" datahash="147a20656e1025f5"/>
         <file name="Qt5Widgets.dll" hash="386d5ccc38398b28" data="28/qt5widgets.dll_386d5ccc38398b28" datahash="22cc70a7a5813396"/>
@@ -187,7 +187,7 @@
         <file name="D3Dcompiler_47.dll" hash="685a64c1898bd70f" data="0f/d3dcompiler_47.dll_685a64c1898bd70f" datahash="d44ccef72bab1e4a"/>
         <file name="iconengines/qsvgicon.dll" hash="7e31f68f8c49cc57" data="57/qsvgicon.dll_7e31f68f8c49cc57" datahash="87a2ff91bb42f1be"/>
         <file name="libGLESV2.dll" hash="5717d4f8f92f14b0" data="b0/libglesv2.dll_5717d4f8f92f14b0" datahash="49b11992040692ea"/>
-        <file name="xuolauncher.exe" hash="2dd51dbec2077111" data="11/xuolauncher.exe_2dd51dbec2077111" datahash="486bb16207d1bb94"/>
+        <file name="xuolauncher.exe" hash="c47534144076d2d6" data="d6/xuolauncher.exe_c47534144076d2d6" datahash="a573eb5f45c42687"/>
         <file name="playlistformats/qtmultimedia_m3u.dll" hash="35adb562a97f9d06" data="06/qtmultimedia_m3u.dll_35adb562a97f9d06" datahash="34461abe91e91ce8"/>
         <file name="Qt5Core.dll" hash="f0d4b5f0302f7cc1" data="c1/qt5core.dll_f0d4b5f0302f7cc1" datahash="3ee81c322c90ffcc"/>
         <file name="translations/qt_uk.qm" hash="6bc8cdc509757556" data="56/qt_uk.qm_6bc8cdc509757556" datahash="a07ac8da133d090e"/>
