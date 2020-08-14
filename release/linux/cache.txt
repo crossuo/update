@@ -1,4 +1,4 @@
-crossuo,e01c56f538a96208
-crossuo.so,1a4fffb985121dcf
+crossuo,2ea571a3d9d2ba01
+crossuo.so,5eee1d46fa2b7159
 xuoassist,5f61ac8693986fc5
-xuolauncher,54561151d51fa567
+xuolauncher,7a8ae6eafe66b6ab
