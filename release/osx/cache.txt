@@ -1,3 +1,3 @@
-crossuo,7a81ccf67ca604fe
-crossuo.so,d4782eee3d9c1a93
-xuolauncher,e72c1deb7423771b
+crossuo,c00054a96c7b8fde
+crossuo.so,964cfdf98e3af65a
+xuolauncher,9a714103b4557fb2
